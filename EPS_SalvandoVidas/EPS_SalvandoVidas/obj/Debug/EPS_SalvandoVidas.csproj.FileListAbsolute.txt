@@ -1,0 +1,11 @@
+C:\Users\juanm\source\repos\EPS_SalvandoVidas\EPS_SalvandoVidas\bin\Debug\EPS_SalvandoVidas.exe.config
+C:\Users\juanm\source\repos\EPS_SalvandoVidas\EPS_SalvandoVidas\bin\Debug\EPS_SalvandoVidas.exe
+C:\Users\juanm\source\repos\EPS_SalvandoVidas\EPS_SalvandoVidas\bin\Debug\EPS_SalvandoVidas.pdb
+C:\Users\juanm\source\repos\EPS_SalvandoVidas\EPS_SalvandoVidas\obj\Debug\EPS_SalvandoVidas.csproj.AssemblyReference.cache
+C:\Users\juanm\source\repos\EPS_SalvandoVidas\EPS_SalvandoVidas\obj\Debug\EPS_SalvandoVidas.Form1.resources
+C:\Users\juanm\source\repos\EPS_SalvandoVidas\EPS_SalvandoVidas\obj\Debug\EPS_SalvandoVidas.FormIngresoDatos.resources
+C:\Users\juanm\source\repos\EPS_SalvandoVidas\EPS_SalvandoVidas\obj\Debug\EPS_SalvandoVidas.Properties.Resources.resources
+C:\Users\juanm\source\repos\EPS_SalvandoVidas\EPS_SalvandoVidas\obj\Debug\EPS_SalvandoVidas.csproj.GenerateResource.cache
+C:\Users\juanm\source\repos\EPS_SalvandoVidas\EPS_SalvandoVidas\obj\Debug\EPS_SalvandoVidas.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\EPS_SalvandoVidas\EPS_SalvandoVidas\obj\Debug\EPS_SalvandoVidas.exe
+C:\Users\juanm\source\repos\EPS_SalvandoVidas\EPS_SalvandoVidas\obj\Debug\EPS_SalvandoVidas.pdb
